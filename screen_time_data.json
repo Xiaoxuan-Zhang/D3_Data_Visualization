@@ -1,0 +1,360 @@
+{
+	"screen_time_data": [{
+			"date": "9/29/2017",
+			"weekday": "Thursday",
+			"total_time": 142,
+			"pickups": 41,
+			"data": [{
+					"time_of_day": "10:22",
+					"screen_time": 17
+				},
+				{
+					"time_of_day": "10:45",
+					"screen_time": 6
+				},
+				{
+					"time_of_day": "11:27",
+					"screen_time": 8
+				},
+				{
+					"time_of_day": "12:08",
+					"screen_time": 10
+				},
+				{
+					"time_of_day": "12:19",
+					"screen_time": 2
+				},
+				{
+					"time_of_day": "12:33",
+					"screen_time": 6
+				},
+				{
+					"time_of_day": "13:28",
+					"screen_time": 16
+				},
+				{
+					"time_of_day": "13:48",
+					"screen_time": 2
+				},
+				{
+					"time_of_day": "13:53",
+					"screen_time": 17
+				},
+				{
+					"time_of_day": "16:11",
+					"screen_time": 19
+				},
+				{
+					"time_of_day": "18:13",
+					"screen_time": 6
+				},
+				{
+					"time_of_day": "19:16",
+					"screen_time": 5
+				}
+			]
+		},
+		{
+			"date": "9/30/2017",
+			"weekday": "Friday",
+			"total_time": 132,
+			"pickups": 22,
+			"data": [{
+					"time_of_day": "0:39",
+					"screen_time": 9
+				},
+				{
+					"time_of_day": "10:08",
+					"screen_time": 7
+				},
+				{
+					"time_of_day": "10:32",
+					"screen_time": 20
+				},
+				{
+					"time_of_day": "10:55",
+					"screen_time": 17
+				},
+				{
+					"time_of_day": "13:48",
+					"screen_time": 19
+				},
+				{
+					"time_of_day": "17:13",
+					"screen_time": 4
+				},
+				{
+					"time_of_day": "17:42",
+					"screen_time": 3
+				},
+				{
+					"time_of_day": "17:50",
+					"screen_time": 4
+				},
+				{
+					"time_of_day": "19:05",
+					"screen_time": 33
+				}
+			]
+		},
+		{
+			"date": "10/1/2017",
+			"weekday": "Saturday",
+			"total_time": 130,
+			"pickups": 64,
+			"data": [{
+					"time_of_day": "12:33",
+					"screen_time": 4
+				},
+				{
+					"time_of_day": "1:15",
+					"screen_time": 15
+				},
+				{
+					"time_of_day": "10:10",
+					"screen_time": 9
+				},
+				{
+					"time_of_day": "10:45",
+					"screen_time": 15
+				},
+				{
+					"time_of_day": "12:45",
+					"screen_time": 7
+				},
+				{
+					"time_of_day": "13:17",
+					"screen_time": 2
+				},
+				{
+					"time_of_day": "13:20",
+					"screen_time": 3
+				},
+				{
+					"time_of_day": "13:44",
+					"screen_time": 10
+				},
+				{
+					"time_of_day": "15:19",
+					"screen_time": 2
+				},
+				{
+					"time_of_day": "15:41",
+					"screen_time": 5
+				},
+				{
+					"time_of_day": "18:11",
+					"screen_time": 3
+				},
+				{
+					"time_of_day": "18:19",
+					"screen_time": 5
+				},
+				{
+					"time_of_day": "18:26",
+					"screen_time": 2
+				},
+				{
+					"time_of_day": "21:31",
+					"screen_time": 8
+				},
+				{
+					"time_of_day": "21:48",
+					"screen_time": 4
+				},
+				{
+					"time_of_day": "23:17",
+					"screen_time": 4
+				}
+			]
+		},
+		{
+			"date": "10/2/2017",
+			"weekday": "Sunday",
+			"total_time": 145,
+			"pickups": 20,
+			"data": [{
+					"time_of_day": "12:39",
+					"screen_time": 17
+				},
+				{
+					"time_of_day": "9:24",
+					"screen_time": 4
+				},
+				{
+					"time_of_day": "9:57",
+					"screen_time": 11
+				},
+				{
+					"time_of_day": "10:42",
+					"screen_time": 26
+				},
+				{
+					"time_of_day": "12:55",
+					"screen_time": 2
+				},
+				{
+					"time_of_day": "13:09",
+					"screen_time": 20
+				},
+				{
+					"time_of_day": "21:25",
+					"screen_time": 23
+				},
+				{
+					"time_of_day": "21:51",
+					"screen_time": 2
+				},
+				{
+					"time_of_day": "22:36",
+					"screen_time": 14
+				},
+				{
+					"time_of_day": "23:33",
+					"screen_time": 18
+				}
+			]
+		},
+		{
+			"date": "10/3/2017",
+			"weekday": "Monday",
+			"total_time": 79,
+			"pickups": 48,
+			"data": [{
+					"time_of_day": "11:28",
+					"screen_time": 11
+				},
+				{
+					"time_of_day": "11:45",
+					"screen_time": 9
+				},
+				{
+					"time_of_day": "13:58",
+					"screen_time": 5
+				},
+				{
+					"time_of_day": "16:33",
+					"screen_time": 6
+				},
+				{
+					"time_of_day": "16:56",
+					"screen_time": 2
+				},
+				{
+					"time_of_day": "19:17",
+					"screen_time": 3
+				},
+				{
+					"time_of_day": "19:51",
+					"screen_time": 2
+				},
+				{
+					"time_of_day": "19:59",
+					"screen_time": 3
+				},
+				{
+					"time_of_day": "21:14",
+					"screen_time": 3
+				},
+				{
+					"time_of_day": "23:36",
+					"screen_time": 7
+				},
+				{
+					"time_of_day": "23:58",
+					"screen_time": 7
+				}
+			]
+		},
+		{
+			"date": "10/4/2017",
+			"weekday": "Tuesday",
+			"total_time": 78,
+			"pickups": 66,
+			"data": [{
+					"time_of_day": "8:24",
+					"screen_time": 3
+				},
+				{
+					"time_of_day": "9:36",
+					"screen_time": 3
+				},
+				{
+					"time_of_day": "9:52",
+					"screen_time": 3
+				},
+				{
+					"time_of_day": "14:14",
+					"screen_time": 15
+				},
+				{
+					"time_of_day": "16:28",
+					"screen_time": 7
+				},
+				{
+					"time_of_day": "17:21",
+					"screen_time": 3
+				},
+				{
+					"time_of_day": "21:27",
+					"screen_time": 3
+				}
+			]
+		},
+		{
+			"date": "10/5/2017",
+			"weekday": "Wednesday",
+			"total_time": 109,
+			"pickups": 41,
+			"data": [{
+					"time_of_day": "8:53",
+					"screen_time": 7
+				},
+				{
+					"time_of_day": "13:25",
+					"screen_time": 4
+				},
+				{
+					"time_of_day": "13:42",
+					"screen_time": 9
+				},
+				{
+					"time_of_day": "14:12",
+					"screen_time": 4
+				},
+				{
+					"time_of_day": "15:52",
+					"screen_time": 11
+				},
+				{
+					"time_of_day": "18:08",
+					"screen_time": 3
+				},
+				{
+					"time_of_day": "20:23",
+					"screen_time": 10
+				},
+				{
+					"time_of_day": "20:34",
+					"screen_time": 6
+				},
+				{
+					"time_of_day": "20:43",
+					"screen_time": 10
+				},
+				{
+					"time_of_day": "21:22",
+					"screen_time": 8
+				},
+				{
+					"time_of_day": "22:27",
+					"screen_time": 3
+				},
+				{
+					"time_of_day": "23:30",
+					"screen_time": 8
+				}
+			]
+		}
+	]
+}
